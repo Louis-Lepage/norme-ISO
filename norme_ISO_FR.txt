@@ -1,0 +1,174 @@
+29.020
+Électrotechnique en général
+Y compris normes concernant les tensions, la terminologie électrique générale, la documentation électrique, les tableaux électriques, la sécurité, les essais de comportement au feu, etc.
+Schémas et diagrammes électriques, voir 01.100.25
+Centrales électriques, voir 27.100
+Compatibilité électromagnétiques, voir 33.100
+
+29.030
+Matériaux magnétiques
+Aciers aux propriétés magnétiques particulières, voir 77.140.40
+
+29.035
+Matériaux isolants électriques
+
+29.040
+Fluides isolants
+
+29.045
+Matériaux semi-conducteurs
+
+29.050
+Supraconductivité et matériaux conducteurs
+
+29.060
+Fils et câbles électriques
+
+29.080
+Isolation
+Matériaux isolants, voir 29.035
+Fluides isolants, voir 29.040
+
+29.100
+Composants pour matériel électrique
+Composants électroniques, voir 31
+
+29.120
+Accessoires électriques
+
+29.130
+Appareillages de connexion et de commande
+
+29.140
+Lampes et accessoires
+
+29.160
+Machines électriques tournantes
+
+29.180
+Transformateurs. Réacteurs
+Transformateurs de mesure, voir 17.220.20
+
+29.200
+Redresseurs. Convertisseurs. Alimentations stabilisées
+Y compris convertisseurs à semi-conducteurs
+
+29.220
+Piles galvaniques et accumulateurs
+
+29.240
+Réseau de transport et de distribution de courant
+Systèmes de fourniture d'électricité dans le bâtiment, voir 91.140.50
+
+29.260
+Installations électriques pour conditions particulières
+
+29.280
+Matériel de traction électrique
+Y compris installations fixes de traction électrique
+Véhicules routiers électriques, voir 43.120
+Matériel de traction ferroviaire non électrique, voir 45.060.10
+
+31.020
+Composants électroniques en général
+Composants magnétiques, voir 29.100.10
+
+31.040
+Résistances électriques
+
+31.060
+Condensateurs
+
+31.080
+Dispositifs à semi-conducteurs
+Matériaux à semi-conducteurs, voir 29.045
+
+31.120
+Dispositifs d'affichage électroniques
+Y compris affichage à cristaux liquides
+
+31.140
+Dispositifs piézo-électriques
+
+31.160
+Filtres électriques
+
+31.180
+Cartes et circuits imprimés
+
+31.190
+Assemblages de composants électroniques
+Y compris modules préassemblés
+
+31.200
+Circuits intégrés. Micro-électronique
+Y compris puces électroniques, microstructures logiques et analogiques
+Microprocesseurs, voir 35.160
+
+31.220
+Composants électromécaniques pour matériel électronique et de télécommunication
+
+35.020
+Technologie de l'information (TI) en général
+Y compris les aspects généraux du matériel des technologies de l'information
+
+35.030
+Sécurité des technologies de l’information
+Y compris le chiffrement
+
+35.040
+Codage de l'information
+Y compris le codage d’informations audio, multimédias ou hypermédias, le codage d’images, les codes à barres, etc.
+Sécurité des technologies de l’information, voir 35.030
+
+35.060
+Langages utilisés dans les technologies de l'information
+
+35.080
+Logiciels
+Y compris développement, documentation et utilisation de logiciel
+Applications liées à l'internet, voir 35.240.95
+
+35.100
+Interconnexion des systèmes ouverts (modèle OSI)
+
+35.110
+Réseaux
+Y compris réseau locaux, réseaux métropolitains, réseaux longue distance, etc.
+Réseau privé à intégration de services (RPIS), voir 33.040.35
+Réseau numérique à intégration de services (RNIS), voir 33.080
+
+35.140
+Infographie
+
+35.160
+Systèmes à microprocesseurs
+Y compris ordinateurs personnels, calculateurs, etc.
+Circuits intégrés, voir 31.200
+
+35.180
+Terminaux et autres équipements périphériques des technologies de l'information
+Y compris les modems
+
+35.200
+Matériel d'interface et d'interconnexion
+
+35.210
+Informatique en nuage
+
+35.220
+Unités de stockage des données
+
+35.240
+Applications des technologies de l'information
+
+35.260
+Machines de bureau
+Y compris machines à écrire, dictaphones, machines à adresser, machines à ouvrir les enveloppes, machines à plier les lettres, machines à affranchir, leurs rubans et autres accessoires, etc.
+Téléphones, voir 33.050.10
+Télex et télécopie, voir 33.050.30
+Photocopieuses, voir 37.100.10
+Matériel d'emballage et d'empaquetage, voir 55.200
+Articles de papeterie, voir 85.080
+Meubles de bureau, voir 97.140
+Fournitures de bureau sauf papeterie, voir 97.180

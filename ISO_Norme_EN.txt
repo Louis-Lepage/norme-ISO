@@ -1,0 +1,175 @@
+29.020
+Electrical engineering in general
+Including standards for voltages, general electrical terminology, electrical documentation, electrical panels, safety, fire tests, etc.
+Electrical diagrams and charts, see 01.100.25
+Power plants, see 27.100
+Electromagnetic compatibility, see 33.100
+
+29.030
+Magnetic materials
+Steels with special magnetic properties, see 77.140.40
+
+29.035
+Electrical insulating materials
+
+29.040
+Insulating fluids
+
+29.045
+Semiconductor materials
+
+29.050
+Superconductivity and conductive materials
+
+29.060
+Electrical wires and cables
+
+29.080
+Insulation
+Insulating materials, see 29.035
+Insulating fluids, see 29.040
+
+29.100
+Components for electrical equipment
+Electronic components, see 31
+
+29.120
+Electrical accessories
+
+29.130
+Switchgear and control gear
+
+29.140
+Lamps and accessories
+
+29.160
+Rotating electrical machines
+
+29.180
+Transformers. Reactors
+Instrument transformers, see 17.220.20
+
+29.200
+Rectifiers. Converters. Stabilized power supplies
+Including semiconductor converters
+
+29.220
+Galvanic batteries and accumulators
+
+29.240
+Power transmission and distribution systems
+Electricity supply systems in buildings, see 91.140.50
+
+29.260
+Electrical installations for special conditions
+
+29.280
+Electrical traction equipment
+Including fixed electrical traction equipment
+Electric road vehicles, see 43.120
+Non-electric railway traction equipment, see 45.060.10
+
+31.020
+Electronic components in general
+Magnetic components, see 29.100.10
+
+31.040
+Electrical resistors
+
+31.060
+Capacitors
+
+31.080
+Semiconductor devices
+Semiconductor materials, see 29.045
+
+31.120
+Electronic display devices
+Including liquid crystal displays
+
+31.140
+Piezo-electric devices
+
+31.160
+Electrical filters
+
+31.180
+Boards and printed circuits
+
+31.190
+Assemblies of electronic components
+Including pre-assembled modules
+
+31.200
+Integrated circuits. Microelectronics
+Including electronic chips, logic and analog microstructures
+Microprocessors, see 35.160
+
+31.220
+Electromechanical components for electronic and telecommunication equipment
+
+35.020
+Information technology (IT) in general
+Including general aspects of information technology equipment
+
+35.030
+Information technology security
+Including encryption
+
+35.040
+Coding of information
+Including coding of audio, multimedia or hypermedia information, image coding, bar codes, etc.
+Information technology security, see 35.030
+
+35.060
+Languages used in information technology
+
+35.080
+Software
+Including development, documentation and use of software
+Internet-related applications, see 35.240.95
+
+
+35.100
+Open Systems Interconnection (OSI model)
+
+35.110
+Networks
+Including local area networks, metropolitan area networks, wide area networks, etc.
+Integrated Services Private Network (ISDN), see 33.040.35
+Integrated Services Digital Network (ISDN), see 33.080
+
+35.140
+Computer graphics
+
+35.160
+Microprocessor systems
+Including personal computers, calculators, etc.
+Integrated circuits, see 31.200
+
+35.180
+Terminals and other information technology peripheral equipment
+Including modems
+
+35.200
+Interface and interconnection equipment
+
+35.210
+Cloud computing
+
+35.220
+Data storage units
+
+35.240
+Information technology applications
+
+35.260
+Office machines
+Including typewriters, dictating machines, addressing machines, envelope-opening machines, letter-folding machines, franking machines, their ribbons and other accessories, etc.
+Telephones, see 33.050.10
+Telex and telefax machines, see 33.050.30
+Photocopiers, see 37.100.10
+Packing and wrapping equipment, see 55.200
+Stationery, see 85.080
+Office furniture, see 97.140
+Office supplies excluding stationery, see 97.180
